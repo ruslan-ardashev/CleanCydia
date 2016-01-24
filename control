@@ -1,0 +1,9 @@
+Package: com.ruslan.cleancydia
+Name: CleanCydia
+Depends: firmware (>= 8.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Block (most) ads in Cydia.
+Maintainer: Ruslan Ardashev
+Author: Ruslan Ardashev
+Section: Tweaks

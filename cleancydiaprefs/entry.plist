@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CleanCydiaPrefs;
+	cell = PSLinkCell;
+	detail = CleanCydiaPrefsListController;
+	icon = CleanCydia.png;
+	isController = 1;
+	label = CleanCydia;
+    };
+}
