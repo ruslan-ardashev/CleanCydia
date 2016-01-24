@@ -1,5 +1,5 @@
 # CleanCydia
-Removes most ads from Cydia.
+Since Cydia relies on web views to show packages, this tweak scans for outgoing urls, references with a blocked list, and forbids ad requests.
 
 | Before                                                                                                 | After                                                                                                  |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
